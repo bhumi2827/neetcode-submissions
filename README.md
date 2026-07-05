@@ -40,7 +40,8 @@ All solutions are organized topic-wise for better revision and understanding.
 ## 🔗 My Coding Profiles
 - 🧠 NeetCode: https://neetcode.io/profile
 - 💻 LeetCode: https://leetcode.com/u/Bhumi_006/
-- 🐙 GitHub: https://github.com/your-username
+- 🐙 GitHub: https://github.com/bhumi576/
+
 
 ---
 
